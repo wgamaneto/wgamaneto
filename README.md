@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [wgamaneto.github.io](wgamaneto.github.io)
 
-- 💬 Ask me about **Python, HTML5, CSS & JavaScript!
+- 💬 Ask me about **Python, HTML5, CSS & JavaScript**
 
 - 📫 How to reach me **wgamaneto16@gmail.com**
 
