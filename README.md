@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/uosxton" target="blank"><img src="https://img.shields.io/twitter/follow/uosxton?logo=twitter&style=for-the-badge" alt="uosxton" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [wgamaneto.github.io](wgamaneto.github.io)
 
