@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/uosxton" target="blank"><img src="https://img.shields.io/twitter/follow/uosxton?logo=twitter&style=for-the-badge" alt="uosxton" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, NodeJS and TypeScript**
+- 🌱 I’m currently learning: **Docker, NodeJS and TypeScript**
 
-- 👨‍💻 All of my projects are available at [wgamaneto.github.io](wgamaneto.github.io)
+- 👨‍💻 All of my projects are available at: [wgamaneto.github.io](wgamaneto.github.io)
 
-- 💬 Ask me about **React, Redux, ContextAPI, JavaScript & Python**
+- 💬 Ask me about: **React, Redux, ContextAPI, JavaScript & Python**
 
-- 📫 How to reach me **wgamaneto16@gmail.com**
+- 📫 How to reach me: **wgamaneto16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
