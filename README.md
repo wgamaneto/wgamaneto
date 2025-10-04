@@ -58,14 +58,11 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/washington-gama/" target="_blank">
+    <a href="https://www.linkedin.com/in/wash-gama/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Washington Gama" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/wash_gama" target="_blank">
+    <a href="https://instagram.com/wash.gama" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Washington Gama" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/uosxton" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/uosxton?logo=twitter&style=social" alt="Twitter Washington Gama" />
     </a>
 </p>
 
