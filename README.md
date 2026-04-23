@@ -17,25 +17,18 @@
 <table>
 <tr>
 <td width="58%" valign="top">
-
-## Operator Profile
-
-I work where **Martech engineering**, **experimentation**, **production debugging**, and **AI-assisted knowledge systems** overlap.
-
-My daily work is not just shipping personalization code. It is turning fragile operational knowledge into reusable systems: documented patterns, safer deployments, better debugging loops, and searchable technical memory.
-
+  <h2>Operator Profile</h2>
+  <p>I work where <strong>Martech engineering</strong>, <strong>experimentation</strong>, <strong>production debugging</strong>, and <strong>AI-assisted knowledge systems</strong> overlap.</p>
+  <p>My daily work is not just shipping personalization code. It is turning fragile operational knowledge into reusable systems: documented patterns, safer deployments, better debugging loops, and searchable technical memory.</p>
 </td>
 <td width="42%" valign="top">
+  <h2>Current Signal</h2>
 
-## Current Signal
-
-```text
-Focus        Adobe Target + AEP
+<pre><code>Focus        Adobe Target + AEP
 Domain       Personalization at scale
 Language     JavaScript / TypeScript
 Mode         Debug -> Document -> Reuse
-AI Layer     Agents + knowledge workflows
-```
+AI Layer     Agents + knowledge workflows</code></pre>
 
 </td>
 </tr>
@@ -48,25 +41,16 @@ AI Layer     Agents + knowledge workflows
 <table>
 <tr>
 <td width="33%" valign="top">
-
-### Personalization Systems
-
-Adobe Target activities, Recommendations, VEC implementations, preview flows, QA routines, and deployment patterns for complex digital products.
-
+  <h3>Personalization Systems</h3>
+  <p>Adobe Target activities, Recommendations, VEC implementations, preview flows, QA routines, and deployment patterns for complex digital products.</p>
 </td>
 <td width="33%" valign="top">
-
-### Production Debugging
-
-SPA behavior, duplicated components, missing carousels, audience mismatch, data layer issues, tracking gaps, feed problems, and edge cases that only appear in real environments.
-
+  <h3>Production Debugging</h3>
+  <p>SPA behavior, duplicated components, missing carousels, audience mismatch, data layer issues, tracking gaps, feed problems, and edge cases that only appear in real environments.</p>
 </td>
 <td width="33%" valign="top">
-
-### AI Knowledge Ops
-
-GitHub as technical source of truth, Obsidian as semantic memory, Notion as human documentation, and agents to collect, classify, summarize, and reuse knowledge.
-
+  <h3>AI Knowledge Ops</h3>
+  <p>GitHub as technical source of truth, Obsidian as semantic memory, Notion as human documentation, and agents to collect, classify, summarize, and reuse knowledge.</p>
 </td>
 </tr>
 </table>
@@ -124,22 +108,22 @@ I care about the full loop: evidence, cause, fix, documentation, and reuse.
 <table>
 <tr>
 <td valign="top" width="50%">
-
-- Adobe Target in enterprise environments
-- AEP audiences, identity, destinations, and profile attributes
-- Recommendations, feeds, criteria, and Velocity templates
-- SPA-safe personalization with JavaScript
-- Tracking reliability with dataLayer, XDM, and analytics events
-
+  <ul>
+    <li>Adobe Target in enterprise environments</li>
+    <li>AEP audiences, identity, destinations, and profile attributes</li>
+    <li>Recommendations, feeds, criteria, and Velocity templates</li>
+    <li>SPA-safe personalization with JavaScript</li>
+    <li>Tracking reliability with dataLayer, XDM, and analytics events</li>
+  </ul>
 </td>
 <td valign="top" width="50%">
-
-- Technical knowledge architecture for AI
-- Agent workflows for engineering and documentation
-- Turning incident history into playbooks
-- Human-readable documentation for technical operations
-- Automation that improves judgment instead of hiding it
-
+  <ul>
+    <li>Technical knowledge architecture for AI</li>
+    <li>Agent workflows for engineering and documentation</li>
+    <li>Turning incident history into playbooks</li>
+    <li>Human-readable documentation for technical operations</li>
+    <li>Automation that improves judgment instead of hiding it</li>
+  </ul>
 </td>
 </tr>
 </table>
