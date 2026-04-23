@@ -1,101 +1,170 @@
-<h1 align="center">Washington Gama</h1>
-<h3 align="center">Personalization Engineer | Adobe Target & AEP | Knowledge Systems for AI</h3>
-
 <p align="center">
-  I build, debug, and document personalization systems for complex digital products.
-  My work sits between Martech engineering, experimentation, production troubleshooting,
-  and AI-assisted knowledge operations.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:312E81,100:DC2626&text=Washington%20Gama&fontColor=FFFFFF&fontSize=54&fontAlignY=38&animation=fadeIn&desc=Personalization%20Engineering%20%7C%20Adobe%20Target%20%2B%20AEP%20%7C%20AI%20Knowledge%20Systems&descSize=16&descAlignY=58" alt="Washington Gama - Personalization Engineering, Adobe Target and AI Knowledge Systems" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wash-gama/">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:wgamaneto16@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/wash-gama/">
+    <img src="https://img.shields.io/badge/LinkedIn-wash--gama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wgamaneto16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wgamaneto16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=wgamaneto&label=Profile%20views&color=312e81&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wgamaneto&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<br />
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## What I do today
+## Operator Profile
 
-I work on the operational side of personalization and AI-enabled technical knowledge.
+I work where **Martech engineering**, **experimentation**, **production debugging**, and **AI-assisted knowledge systems** overlap.
 
-- Design and maintain Adobe Target experiences, Recommendations, A/B tests, and personalization logic.
-- Connect Adobe Target, AEP audiences, DataLayer events, feeds, profile attributes, and front-end behavior.
-- Debug production issues in SPAs, VEC implementations, Recommendations, audience qualification, and tracking flows.
-- Turn repeated fixes into reusable playbooks, snippets, templates, and decision records.
-- Build knowledge workflows with GitHub, Obsidian, Notion, Claude, Codex, LM Studio, and MCP-style integrations.
+My daily work is not just shipping personalization code. It is turning fragile operational knowledge into reusable systems: documented patterns, safer deployments, better debugging loops, and searchable technical memory.
 
----
+</td>
+<td width="42%" valign="top">
 
-## Current focus
+## Current Signal
 
 ```text
-Personalization Engineering
-|- Adobe Target, Recommendations, VEC, QA, preview, deployment
-|- AEP audiences, identity, destinations, profile attributes
-|- JavaScript for SPA-safe experiences and tracking
-
-Knowledge Systems for AI
-|- GitHub as technical source of truth
-|- Obsidian as semantic memory for AI
-|- Notion as human-readable documentation
-|- Agents and automation to collect, classify, and reuse knowledge
+Focus        Adobe Target + AEP
+Domain       Personalization at scale
+Language     JavaScript / TypeScript
+Mode         Debug -> Document -> Reuse
+AI Layer     Agents + knowledge workflows
 ```
 
-I am especially interested in the point where production incidents become systems:
-clear root cause, reusable fix, documented pattern, and faster execution next time.
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical stack
+## What I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Personalization Systems
+
+Adobe Target activities, Recommendations, VEC implementations, preview flows, QA routines, and deployment patterns for complex digital products.
+
+</td>
+<td width="33%" valign="top">
+
+### Production Debugging
+
+SPA behavior, duplicated components, missing carousels, audience mismatch, data layer issues, tracking gaps, feed problems, and edge cases that only appear in real environments.
+
+</td>
+<td width="33%" valign="top">
+
+### AI Knowledge Ops
+
+GitHub as technical source of truth, Obsidian as semantic memory, Notion as human documentation, and agents to collect, classify, summarize, and reuse knowledge.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Core Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe_Target-EC1B24?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Target" />
-  <img src="https://img.shields.io/badge/Adobe_Experience_Platform-470137?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Experience Platform" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Adobe_Target-EC1B24?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Target" />
+  <img src="https://img.shields.io/badge/Adobe_Experience_Platform-470137?style=flat-square&logo=adobe&logoColor=white" alt="Adobe Experience Platform" />
+  <img src="https://img.shields.io/badge/Recommendations-111827?style=flat-square" alt="Recommendations" />
+  <img src="https://img.shields.io/badge/VEC-1F2937?style=flat-square" alt="Visual Experience Composer" />
+  <img src="https://img.shields.io/badge/AEP_Audiences-4C1D95?style=flat-square" alt="AEP Audiences" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/dataLayer_/_XDM-0F766E?style=flat-square" alt="dataLayer and XDM" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex" />
+  <img src="https://img.shields.io/badge/Local_AI-374151?style=flat-square" alt="Local AI" />
 </p>
 
 ---
 
-## How I work
+## Operating Model
 
-- I prefer concrete production evidence over vague best practices.
-- I document decisions, not just code.
-- I treat recurring bugs as signals that a playbook or abstraction is missing.
-- I use AI agents to accelerate analysis and implementation, but keep architecture and judgment explicit.
-- I care about traceability: source, context, decision, implementation, and outcome.
+```mermaid
+flowchart LR
+    A[Production issue] --> B[Root cause]
+    B --> C[Reusable fix]
+    C --> D[GitHub artifact]
+    C --> E[Obsidian note]
+    E --> F[Notion summary]
+    D --> G[Next implementation]
+    E --> G
+```
 
----
-
-## Topics I write and think about
-
-- Adobe Target and AEP in real-world operations.
-- Personalization engineering for SPAs and enterprise environments.
-- Recommendations, feeds, Velocity templates, and tracking reliability.
-- Knowledge architecture for AI: GitHub + Obsidian + Notion.
-- Practical agent workflows with Claude, Codex, local models, and automation.
+I care about the full loop: evidence, cause, fix, documentation, and reuse.
 
 ---
 
-## GitHub stats
+## Areas I Think About
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+- Adobe Target in enterprise environments
+- AEP audiences, identity, destinations, and profile attributes
+- Recommendations, feeds, criteria, and Velocity templates
+- SPA-safe personalization with JavaScript
+- Tracking reliability with dataLayer, XDM, and analytics events
+
+</td>
+<td valign="top" width="50%">
+
+- Technical knowledge architecture for AI
+- Agent workflows for engineering and documentation
+- Turning incident history into playbooks
+- Human-readable documentation for technical operations
+- Automation that improves judgment instead of hiding it
+
+</td>
+</tr>
+</table>
+
+---
+
+## How I Work
+
+> Debug the real behavior. Document the pattern. Automate the boring part. Keep the judgment explicit.
+
+- I prefer production evidence over generic best practices.
+- I write down decisions, not just implementations.
+- I treat repeated bugs as missing systems.
+- I use AI agents to move faster, but not to blur accountability.
+- I care about traceability from source to outcome.
+
+---
+
+## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wgamaneto&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgamaneto&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wgamaneto&show_icons=true&theme=transparent&hide_border=true&title_color=DC2626&text_color=CBD5E1&icon_color=7C3AED" alt="Washington Gama GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgamaneto&layout=compact&theme=transparent&hide_border=true&title_color=DC2626&text_color=CBD5E1" alt="Most used languages" />
 </p>
 
----
-
 <p align="center">
-  Building systems that make technical knowledge easier to find, trust, and reuse.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:DC2626,50:312E81,100:0F172A" alt="footer" />
 </p>
